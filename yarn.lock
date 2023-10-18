@@ -4,7 +4,8 @@
 
 "@consumet/extensions@github:consumet/consumet.ts":
   version "1.5.2"
-  resolved "git+ssh://git@github.com/consumet/consumet.ts.git#bc322104caeaba23e283cb3d87a707a107fbaf56"
+  uid d71bdcad5ab1f9f82e9e92b1ca8447e899059b34
+  resolved "https://codeload.github.com/consumet/consumet.ts/tar.gz/d71bdcad5ab1f9f82e9e92b1ca8447e899059b34"
   dependencies:
     ascii-url-encoder "^1.2.0"
     axios "^0.27.2"
@@ -728,7 +729,7 @@ mnemonist@0.39.5:
   dependencies:
     obliterator "^2.0.1"
 
-ms@^2.1.1, ms@2.1.2:
+ms@2.1.2, ms@^2.1.1:
   version "2.1.2"
   resolved "https://registry.npmjs.org/ms/-/ms-2.1.2.tgz"
   integrity sha512-sGkPx+VjMtmA6MX27oA4FBFELFCZZ4S4XqeGOXCv68tT+jb3vk/RyaKWP0PTKyWtmLSM0b+adUTEvbs1PEaH2w==
@@ -1065,7 +1066,7 @@ ts-node@^10.9.1:
     v8-compile-cache-lib "^3.0.1"
     yn "3.1.1"
 
-typescript@>=2.7, typescript@5.0.2:
+typescript@5.0.2:
   version "5.0.2"
   resolved "https://registry.npmjs.org/typescript/-/typescript-5.0.2.tgz"
   integrity sha512-wVORMBGO/FAs/++blGNeAVdbNKtIh1rbBL2EyQ1+J9lClJ93KiiKe8PmFIVdXhHcyv44SL9oglmfeSsndo0jRw==
